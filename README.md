@@ -1,2 +1,2 @@
 # Keeper-App-Finished
-The keeper app is finish
+The keeper app is finished.
